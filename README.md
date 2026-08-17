@@ -40,23 +40,23 @@ The dashboard integrates data preprocessing, customer analytics, revenue analysi
 
 ### Dashboard Overview
 
-![Overview](images/dashboard_overview.png)
+![Overview](images/Dashboard_Overview.png)
 
 ### Top Products
 
-![Products](images/top_products.png)
+![Products](images/Top_Performing_Products.png)
 
 ### Customer Analytics
 
-![Customers](images/customer_segments.png)
+![Customers](images/Customer_Segmentation_and_Customer_Lifetime_Value.png)
 
 ### Top Customers
 
-![Top Customers](images/top_customers.png)
+![Top Customers](images/Top_Customers.png)
 
 ### Pareto Analysis
 
-![Pareto](images/pareto_analysis.png)
+![Pareto](images/Pareto_Analysis.png)
 
 ---
 
@@ -103,6 +103,3 @@ sales_forecasting.R
 
 ---
 
-## Author
-
-Talal Odah
