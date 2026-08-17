@@ -36,27 +36,25 @@ The dashboard integrates data preprocessing, customer analytics, revenue analysi
 
 ---
 
-## Dashboard Preview
+## Dashboard Overview
 
-### Dashboard Overview
+![Overview](Dashboard_Overview.jpeg)
 
-![Overview](images/Dashboard_Overview.png)
+## Top Products
 
-### Top Products
+![Products](Top_Performing_Products.png)
 
-![Products](images/Top_Performing_Products.png)
+## Customer Analytics
 
-### Customer Analytics
+![Customers](Customer_Segmentation_and_Customer_Lifetime_Value.png)
 
-![Customers](images/Customer_Segmentation_and_Customer_Lifetime_Value.png)
+## Top Customers
 
-### Top Customers
+![Top Customers](Top_Customers.png)
 
-![Top Customers](images/Top_Customers.png)
+## Pareto Analysis
 
-### Pareto Analysis
-
-![Pareto](images/Pareto_Analysis.png)
+![Pareto](Pareto_Analysis.png)
 
 ---
 
